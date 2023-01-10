@@ -1,0 +1,1 @@
+Project Sample [![Build status](https://ci.appveyor.com/api/projects/status/f5ot08aq87fugo6e/branch/master?svg=true)](https://ci.appveyor.com/project/mustafeev/aqa-code-k891g/branch/master)
