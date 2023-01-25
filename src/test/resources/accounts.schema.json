@@ -29,11 +29,8 @@
         "default": 0
       },
       "currency": {
-        "type": "string"
-      },
-      "currency": {
         "type": "string",
-        "pattern": "^RUR$|^USD$"
+        "pattern": "^RUB$|^USD$"
       }
     }
   }
